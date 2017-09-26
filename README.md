@@ -1,4 +1,4 @@
-#Unix Shell
+Unix Shell
 
 This is a sample of code from a project I worked on in my Systems
 Programming course. The full project is a Unix Shell implemented
